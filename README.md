@@ -1,7 +1,7 @@
 # Proyecto de Gestión de Juegos con Vue.js y Vuex
 
 ![Imagen del Proyecto](./public/title-vuex.png)  <!-- Reemplaza con la URL de tu imagen -->
-
+Desarrolladora: Ana Celeste Pérez.
 ## Descripción
 
 Este proyecto es una aplicación web construida con **Vue.js** y **Vuex**, utilizando **Vue CLI**. Permite gestionar una lista de juegos, mostrando información relevante y ofreciendo la posibilidad de modificar el stock de cada juego.
